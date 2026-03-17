@@ -4,3 +4,4 @@ Tracking experiments on Base network.
 tested another app on Base.
 continued exploring Base ecosystem tools.
 observing more onchain activity on Base.
+documenting ongoing Base experiments.
