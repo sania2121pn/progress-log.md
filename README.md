@@ -5,3 +5,4 @@ tested another app on Base.
 continued exploring Base ecosystem tools.
 observing more onchain activity on Base.
 documenting ongoing Base experiments.
+checking new apps and workflows on Base.
