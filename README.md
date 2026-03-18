@@ -9,3 +9,4 @@ checking new apps and workflows on Base.
 continuing public builder journey on Base.
 tracking more activity across Base apps.
 still experimenting on Base network.
+continuing Base activity and tracking progress.
