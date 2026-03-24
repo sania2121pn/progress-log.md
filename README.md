@@ -11,3 +11,4 @@ tracking more activity across Base apps.
 still experimenting on Base network.
 continuing Base activity and tracking progress.
 continuing Base activity and documenting progress.
+exploring more apps on Base network.
