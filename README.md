@@ -12,3 +12,4 @@ still experimenting on Base network.
 continuing Base activity and tracking progress.
 continuing Base activity and documenting progress.
 exploring more apps on Base network.
+testing more onchain interactions on Base.
